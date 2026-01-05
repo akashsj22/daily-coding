@@ -1,6 +1,7 @@
-#include <stdio.h> // Includes standard input/output library
+#include <stdio.h>
 
-int main() { // The main function where execution begins
-  printf("Hello, C World!\n"); // Prints text to the console
-  return 0; // Indicates successful execution
+int main() { 
+  printf("Hello, C World!\n"); 
+  
+  return 0; 
 }
