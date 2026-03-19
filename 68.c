@@ -7,8 +7,6 @@ struct node {
 };
 
 struct node *head = NULL;
-
-// DELETE FIRST NODE
 void removeNode() {
     if(head == NULL) {
         printf("List empty\n");
