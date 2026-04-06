@@ -12,7 +12,6 @@ int findMin(struct node* root)
 
     return min;
 }
-
 int findMax(struct node* root)
 {
     if (root == NULL)
